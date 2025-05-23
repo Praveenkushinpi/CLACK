@@ -29,3 +29,4 @@ keyboard is one of the project that i want to work on after __*learning*__ some 
 
 ## __*What i did today ?*__
 
+![keyboard-layout](https://github.com/user-attachments/assets/55ffd810-4377-4307-8442-1d11de87ab0e)
