@@ -29,4 +29,6 @@ keyboard is one of the project that i want to work on after __*learning*__ some 
 
 ## __*What i did today ?*__
 
-![keyboard-layout](https://github.com/user-attachments/assets/55ffd810-4377-4307-8442-1d11de87ab0e)
+![image](https://github.com/user-attachments/assets/6cbea5d1-a0fc-42e2-b973-9c2fd7c0ba58)
+![image](https://github.com/user-attachments/assets/07204b53-c241-459e-96bc-819926191b5d)
+
