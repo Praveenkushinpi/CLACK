@@ -39,11 +39,12 @@ The name **Clack** comes from the satisfying sound of tactile switches meeting c
 
 ##  Features
 
-- Hot-swappable PCB (no soldering required)
-- Tactile feel with tuned stabilizers
-- Dampened acoustics with foam layering
-- Clean, minimal layout for productivity
-- Fully programmable with VIA/QMK *(if supported)*
+- Split Keyboard
+- must have 2 knobs
+- a led screen
+- work for both mac and windows devices
+- RGB or atleast a backlight keyboard
+- Hot swappable 
 
 ---
 
