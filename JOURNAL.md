@@ -1,7 +1,7 @@
 
 ---
 title: "Clack Keyboard - Build Journal"
-author: "Praveen Kumar (@your_slack_username)"
+author: "Praveen Kumar (@praveenkushinpi)"
 description: "A custom mechanical keyboard project: Clack."
 created_at: "2025-06-14"
 ---
