@@ -20,3 +20,6 @@ I finalized the **keyboard layout**—the arrangement of keys, row staggering, a
 Today i selected the processor i want to use according to my needs and also started schematic with adding keys and two encoders and nrf25--- `MDBT50Q-1MV2` and i also created custom symbol and also trying everything to be secure
 
 ![image](https://github.com/user-attachments/assets/3b11d3e9-1570-4bee-be9e-9858a2958561)
+
+## Day 2 - starting again full of motivation feel like g fuel is running in my viens and after 4 hours schemtic and i am not gonna leave my laptop and seat until i finish my keyboard let do this 
+![image](https://github.com/user-attachments/assets/b69c75a6-7521-4378-a04e-f8a158829733)
