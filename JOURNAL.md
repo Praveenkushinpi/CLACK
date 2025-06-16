@@ -25,3 +25,6 @@ Today i selected the processor i want to use according to my needs and also star
 ### time 12:26
 starting again full of motivation feel like g fuel is running in my viens and after 4 hours schemtic and i am not gonna leave my laptop and seat until i finish my keyboard let do this 
 ![image](https://github.com/user-attachments/assets/b69c75a6-7521-4378-a04e-f8a158829733)
+after so much searching and fondong for footprints of components and even making own but i get a huge problem of those components availablity in my country but still i am able to completely build it using pi pico and also did wiring and stuff 
+![image](https://github.com/user-attachments/assets/8de2fa3f-ccc6-4157-9d0e-bdbfb380a6ad)
+![image](https://github.com/user-attachments/assets/12ef53ee-da91-485b-9b98-e70a9bb30695)
