@@ -28,3 +28,6 @@ starting again full of motivation feel like g fuel is running in my viens and af
 after so much searching and fondong for footprints of components and even making own but i get a huge problem of those components availablity in my country but still i am able to completely build it using pi pico and also did wiring and stuff 
 ![image](https://github.com/user-attachments/assets/8de2fa3f-ccc6-4157-9d0e-bdbfb380a6ad)
 ![image](https://github.com/user-attachments/assets/12ef53ee-da91-485b-9b98-e70a9bb30695)
+### time 21:04
+i think the wiring part would be easy but after knowing that i have to put each key one by one and also resistor and then wiring i hope i will do the basic 60% layout
+![image](https://github.com/user-attachments/assets/388e2e96-7471-4ac0-9398-3cb2614aca28)
