@@ -12,11 +12,12 @@ Today marks the first official entry for the **Clack** keyboard project!
 
  **Progress Update**  
 I finalized the **keyboard layout**—the arrangement of keys, row staggering, and the overall form factor. I'm aiming for a compact yet comfortable 60% layout, but with a few tweaks for usability (like dedicated arrow keys and an extra macro column).
+2 hrs
 ![image](https://github.com/user-attachments/assets/728bce1f-0d6a-4ec8-928b-5c5fb4be8a9c)
 
 
 ## Day 2 - RightHand side keyboard schematic
-
+8 hrs
 Today i selected the processor i want to use according to my needs and also started schematic with adding keys and two encoders and nrf25--- `MDBT50Q-1MV2` and i also created custom symbol and also trying everything to be secure
 
 ![image](https://github.com/user-attachments/assets/3b11d3e9-1570-4bee-be9e-9858a2958561)
@@ -31,3 +32,8 @@ after so much searching and fondong for footprints of components and even making
 ### time 21:04
 i think the wiring part would be easy but after knowing that i have to put each key one by one and also resistor and then wiring i hope i will do the basic 60% layout
 ![image](https://github.com/user-attachments/assets/388e2e96-7471-4ac0-9398-3cb2614aca28)
+
+## Day 3 - 
+7 hrs
+after a many hours i finished my wiring of my keyboard and this is very hard for me tbh as a begineer
+![image](https://github.com/user-attachments/assets/d2c6caa6-2c28-4934-be81-fb962e95b3e7)
