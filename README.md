@@ -60,7 +60,8 @@ The name **Clack** comes from the satisfying sound of tactile switches meeting c
 
 ---
 
-## 💗 Thanks to HIGHWAY
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart Emoji" width="25" height="25" /> Thanks to HIGHWAY
+
 
 ---
 
