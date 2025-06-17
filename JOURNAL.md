@@ -40,4 +40,9 @@ after a many hours i finished my wiring of my keyboard and this is very hard for
 ### time 18:58
 i never had a thought this is going to take this much time but finally things starts getting shape
 ![image](https://github.com/user-attachments/assets/940c5987-d9b8-450b-bc73-dabb888750cb)
+### time 21:14
+finally i created the everything to create my own custom keyboard and i did created the casing for intially i am going to stack it up it looks alraight to me i hope this will work for others to but this what i want
+![image](https://github.com/user-attachments/assets/d358bf99-36d6-4ae4-a1ec-b05164d601ab)
+![image](https://github.com/user-attachments/assets/a8c115d0-0042-417a-a0c4-bab6f9206546)
+
 
