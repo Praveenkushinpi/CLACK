@@ -32,6 +32,8 @@ after so much searching and fondong for footprints of components and even making
 ### time 21:04
 i think the wiring part would be easy but after knowing that i have to put each key one by one and also resistor and then wiring i hope i will do the basic 60% layout
 ![image](https://github.com/user-attachments/assets/388e2e96-7471-4ac0-9398-3cb2614aca28)
+![image](https://github.com/user-attachments/assets/fea9dac9-632d-493f-b6a2-2cf06fdc8523)
+
 
 ## Day 3 - 
 7 hrs
@@ -47,6 +49,8 @@ finally i created the everything to create my own custom keyboard and i did crea
 ### 21:34 
 ![image](https://github.com/user-attachments/assets/c9b96a54-a1b6-449d-ad6a-7fbc03957c3d)
 ![image](https://github.com/user-attachments/assets/044b7599-4a6e-40b4-bf12-a81c29c08c88)
+![image](https://github.com/user-attachments/assets/859af2b1-9a2c-4d81-b4bb-97766db01e42)
+
 here is the cost and stuff
 
 
