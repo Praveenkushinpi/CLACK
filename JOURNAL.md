@@ -44,5 +44,9 @@ i never had a thought this is going to take this much time but finally things st
 finally i created the everything to create my own custom keyboard and i did created the casing for intially i am going to stack it up it looks alraight to me i hope this will work for others to but this what i want
 ![image](https://github.com/user-attachments/assets/d358bf99-36d6-4ae4-a1ec-b05164d601ab)
 ![image](https://github.com/user-attachments/assets/a8c115d0-0042-417a-a0c4-bab6f9206546)
+### 21:34 
+![image](https://github.com/user-attachments/assets/c9b96a54-a1b6-449d-ad6a-7fbc03957c3d)
+![image](https://github.com/user-attachments/assets/044b7599-4a6e-40b4-bf12-a81c29c08c88)
+here is the cost and stuff
 
 
