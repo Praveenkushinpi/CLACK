@@ -37,3 +37,7 @@ i think the wiring part would be easy but after knowing that i have to put each 
 7 hrs
 after a many hours i finished my wiring of my keyboard and this is very hard for me tbh as a begineer
 ![image](https://github.com/user-attachments/assets/d2c6caa6-2c28-4934-be81-fb962e95b3e7)
+### time 18:58
+i never had a thought this is going to take this much time but finally things starts getting shape
+![image](https://github.com/user-attachments/assets/940c5987-d9b8-450b-bc73-dabb888750cb)
+
