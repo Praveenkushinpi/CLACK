@@ -60,7 +60,7 @@ The name **Clack** comes from the satisfying sound of tactile switches meeting c
 
 ---
 
-## ❤ Thanks to HIGHWAY
+## 💗 Thanks to HIGHWAY
 
 ---
 
