@@ -53,4 +53,5 @@ finally i created the everything to create my own custom keyboard and i did crea
 
 here is the cost and stuff
 
-
+## 24 July 
+and starting over because my submission got rejected and i am aware of so i am going to to do everything mentioned along with amking my design perfect 
