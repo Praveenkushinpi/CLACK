@@ -13,7 +13,9 @@
 
 ```
 
+
 #  Clack — A Custom Mechanical Keyboard Build
+![Screenshot 2025-06-17 211700](https://github.com/user-attachments/assets/c5b6f5af-9ef7-43cc-b207-ca1446584b31)
 
 Clack is a personal mechanical keyboard build crafted with a balance of sound, feel, and function — all under a budget of $150. Designed for a smooth typing experience and a clean aesthetic, Clack is as much a daily driver as it is a passion project.
 
