@@ -16,6 +16,8 @@
 
 #  Clack — A Custom Mechanical Keyboard Build
 ![Screenshot 2025-06-17 211700](https://github.com/user-attachments/assets/c5b6f5af-9ef7-43cc-b207-ca1446584b31)
+![Screenshot 2025-06-17 164141](https://github.com/user-attachments/assets/346014d1-db45-463e-bf1a-835adb9ebd2b)
+![Screenshot 2025-06-16 203245](https://github.com/user-attachments/assets/34fbc819-e2b0-42af-b4ed-86fd86b2e1c7)
 
 Clack is a personal mechanical keyboard build crafted with a balance of sound, feel, and function — all under a budget of $150. Designed for a smooth typing experience and a clean aesthetic, Clack is as much a daily driver as it is a passion project.
 
@@ -31,13 +33,24 @@ The name **Clack** comes from the satisfying sound of tactile switches meeting c
 
 | Component     | Model/Brand               | Notes                          |
 |---------------|----------------------------|--------------------------------|
-| **Case**       | [your case model]         | Material (e.g., aluminum/plastic) |
-| **PCB**        | [your PCB model]          | Hot-swappable or soldered       |
-| **Switches**   | [your switch model]       | Linear/Tactile/Clicky           |
-| **Keycaps**    | [your keycap set]         | Profile & Material              |
-| **Stabilizers**| [e.g., Durock, Owlstabs]  | Lubed and clipped               |
-| **Foam Mods**  | Plate foam, case foam     | For better acoustics            |
-| **Lube**       | Krytox 205g0              | Used on switches and stabs      |
+| **Case**       | [Case](https://github.com/Praveenkushinpi/CLACK/tree/main/CASE)         | Material Plastic |
+| **PCB**        | [PCB](https://github.com/Praveenkushinpi/CLACK/tree/main/PCB)          | Hot-swappable      |
+| **Switches**   | [StacksKB](https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/)       | Tactile/Clicky           |
+| **Keycaps**    | [StacksKB](https://stackskb.com/store/wild-goose-keycaps/)         | Good              |
+
+
+---
+
+##  BOM
+
+| Component     | Model/Brand               | Price                          |
+|---------------|----------------------------|--------------------------------|
+| **KeyCaps**       | [StacksKB](https://stackskb.com/store/wild-goose-keycaps/)         | 2499 inr = 30 usd |
+| **Switches**        | [StacksKB](https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/)          | 2388 inr = 28 usd       |
+| **PCB**   | [JLCPCB](https://private-user-images.githubusercontent.com/168343716/456092456-044b7599-4a6e-40b4-bf12-a81c29c08c88.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MTkwNTksIm5iZiI6MTc1MDgxODc1OSwicGF0aCI6Ii8xNjgzNDM3MTYvNDU2MDkyNDU2LTA0NGI3NTk5LTRhNmUtNDBiNC1iZjEyLWE4MWMyOWMwOGM4OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNVQwMjMyMzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDljN2U2ZmYwODhlZGU2OTJjNWVkYzk5MDk5ZWU5ODViZTY4NGQ2ZmY0Y2EyOGE5MThlMDdhMTg2MDMwMDdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TJexbJ2JOPTNS0pWK4Fx8X82fOrmfui8mHUvjtpRxs8)       | 33 usd            |
+| **Encoder**| [Robu.in](https://private-user-images.githubusercontent.com/168343716/456093939-859af2b1-9a2c-4d81-b4bb-97766db01e42.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MTkwNTksIm5iZiI6MTc1MDgxODc1OSwicGF0aCI6Ii8xNjgzNDM3MTYvNDU2MDkzOTM5LTg1OWFmMmIxLTlhMmMtNGQ4MS1iNGJiLTk3NzY2ZGIwMWU0Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNVQwMjMyMzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMjA1NjJkOTMwMDA1N2Q3Yjk3ZTg1NjQ1ODc0OTgwYmY4NDY5NWFmMGJjYzkwMTY2NjUyZDFiYjYzNjExNmUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BMnRanZ30tjBzOlprUQU22twroIURjnTTjO-QSRDdCs)  | 1 usd              |
+| **Display**  | [Robu.in](https://private-user-images.githubusercontent.com/168343716/456094220-fea9dac9-632d-493f-b6a2-2cf06fdc8523.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MTkwNTksIm5iZiI6MTc1MDgxODc1OSwicGF0aCI6Ii8xNjgzNDM3MTYvNDU2MDk0MjIwLWZlYTlkYWM5LTYzMmQtNDkzZi1iNmEyLTJjZjA2ZmRjODUyMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNVQwMjMyMzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzIxYWFlODJjOTZiZWYwY2E0NmZmZGJmMmQwNjM2NDA0ZjEzMjBmODQ1ZTkyZTU0YzNjNGMyYWIyODY4YmJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4TZm8LEaH7tvJQlJOL3LapiQ1uNSj3NfFEgdTf9ja4k)    | 3 usd            |
+
 
 ---
 
