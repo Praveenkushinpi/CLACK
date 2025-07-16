@@ -15,7 +15,7 @@
 
 
 #  Clack — A Custom Mechanical Keyboard Build
-![Screenshot 2025-06-17 211700](https://github.com/user-attachments/assets/c5b6f5af-9ef7-43cc-b207-ca1446584b31)
+<img width="1713" height="833" alt="image" src="https://github.com/user-attachments/assets/2f84d4f9-abf8-42ba-be70-4535b3c05655" />
 ![Screenshot 2025-06-17 164141](https://github.com/user-attachments/assets/346014d1-db45-463e-bf1a-835adb9ebd2b)
 ![Screenshot 2025-06-16 203245](https://github.com/user-attachments/assets/34fbc819-e2b0-42af-b4ed-86fd86b2e1c7)
 
