@@ -73,8 +73,9 @@ The name **Clack** comes from the satisfying sound of tactile switches meeting c
 - Swap to silent linear switches for nighttime use  
 - Design custom keycap set with a "Clack" theme  
 - Integrate rotary encoder or OLED screen
-
+- Also planning to work on the split deisgn
 ---
+
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart Emoji" width="25" height="25" /> Thanks to HIGHWAY
 
