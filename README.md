@@ -35,7 +35,7 @@ The name **Clack** comes from the satisfying sound of tactile switches meeting c
 |---------------|----------------------------|--------------------------------|
 | **Case**       | [Case](https://github.com/Praveenkushinpi/CLACK/tree/main/CASE)         | Material Plastic |
 | **PCB**        | [PCB](https://github.com/Praveenkushinpi/CLACK/tree/main/PCB)          | Hot-swappable      |
-| **Switches**   | [StacksKB](https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/)       | Tactile/Clicky           |
+| **Switches**   | [StacksKB](https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/)       | Soft/Clicky           |
 | **Keycaps**    | [StacksKB](https://stackskb.com/store/wild-goose-keycaps/)         | Good              |
 
 
